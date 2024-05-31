@@ -16,7 +16,7 @@ Intuitive button layout simplifies interaction.
 ## Getting Started:
 
 ### Clone the Repository: 
-Use git clone https://github.com/your-username/simple-calculator-customtkinter.git to download the project files.
+Use git clone https://github.com/Saikatsaha798/Simple-calculator-GUI.git to download the project files.
 ### Install Dependencies: 
 Run pip install customtkinter to install the required library.
 ### Run the Calculator: 
